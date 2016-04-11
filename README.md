@@ -1,5 +1,5 @@
 # android_open_project
-#
+
 <b>38k Open Source Java & Android Projects Repository</b>
 
 <b>Steps to Download the Dataset </b>
